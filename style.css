@@ -68,6 +68,9 @@ body{
     border-radius: 5px;
 
 }
+.button:hover{
+    background-image: linear-gradient(45deg, lightblue, lightgreen);
+}
 .block{
     width: 18%;
     text-align: center;
