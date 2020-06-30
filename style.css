@@ -84,6 +84,8 @@ body{
     display: block;
     float: left;
     height: 250px;
+    border-image: linear-gradient(45deg,rgba(226, 213, 98, 0.781),rgb(212, 67, 91));
+    border-image-slice: 1;
 }
 .block img{
     margin-left: auto;
